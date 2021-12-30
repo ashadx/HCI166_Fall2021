@@ -21,7 +21,7 @@ There are obvious differences between humans and machines. In spite of these, HC
 
 ## Contribution of HCI
 The field of HCI covers a wide range of topics, and its development has relied on contributions
-from many disciplines. Some of the main disciplines which have contributed to HCI are:
+from many disciplines. Some of the main disciplines which have contributed to HCI are mentionn below:
 
 
 #### Computer Science
