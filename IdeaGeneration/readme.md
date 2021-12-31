@@ -1,1 +1,80 @@
+# IDEA GENERATION: HYBRID CLASSROOM SYSTEM IN UNDERPRIVILEGED SCHOOLS
 
+|Std ID|Student Name|
+|:-----:|---------------------|
+|**64286**|**Asad Aslam**|
+|64254|Riyan Shahid|
+
+
+## Core Problem:Double Diamond FrameWork
+
+Children living in poverty face many barriers to accessing an education. Some are obvious like not having a school to go to ,while others are more subtle. Like the teacher at the school not having had the training needed to help children learn effectively.
+
+1. A lack of funding for education.
+2. Having no teacher, or having an untrained teacher
+3. No proper classrooms.
+4. A lack of learning materials
+5. The exclusion of children with disabilities.
+
+Above mentions are some of the problems that are being faced by underprivileged schools ,We have generated some idea for there solutions which can become a sloution for there problems. We have to design these applications in such a user friendly and interactive manner so it can be used generally by everyone not just those who are familiar using computer or smartphones but for those who have never used them before and all will be done by using the concepts of HCI.
+
+## FINAL 10 IDEA'S
+
+### Idea 1 : Applying Solar Sysyem (original by [Riyan])
+
+By applying solar system we can get rid of electricity problem that students faces during the class and in hybrid class it is very helpful as well.
+
+|**Pros**|**Cons**|
+|:-------:|------------|
+|Students can access to thier electronic devices without any interuption|It does not work in any enviroment,only sunny areas can take advantage of it.|
+|The burden of giving electricity bill can be rid off and that tension also that if he\she will not pay bill electricity will be cutoff|Solar panels are required maintaince and a lot iof take care|
+
+
+### Idea 2 : Providing online lectures (original by [Riyan])
+
+By providing online lectures students can access it from any where and any time.
+
+|**Pros**|**Cons**|
+|:-------:|:----:|
+|Student can learn in thier free time|It can only be access thorugh internet.So without it cannot be viewed|
+|They had not to write long notes and take care of them|Students can not ask questions in it|
+
+### Idea 3: Using Subtitiles in lectures (original by [Riyan])
+
+By applying subtitles student can listen and read the subtitiles at same time,so which word he\she cannot listen can understand by reading in video.
+It is also helpfull for the students you can not listen properly ,they can understand the lectures by reading subtitles.
+
+
+|**Pros**|**Cons**|
+|:-----:|-----|
+|Student can understand spelling as well|If the spelling is wrong in subtitile it can have wrong concept in his mind|
+|If voice is interupted you can understand by words|It takes long time to implement|
+
+### Idea 4: UI Human Friendly (orginial by[Riyan])
+
+In hybrid classroom the app or website that are used by student and teachers should be user friendly so they should not face any problem in using that medium.
+As HCI play an important role in every aspect of your life .
+
+|**Pros|**Cons**|
+|:----:|---------|
+|User can access easily|UI becomes more complex if user needs to communicate with the computer directly.|
+|Data can be represent in the form of icon which are know to user.|Design a good UI take lot of time.|
+
+
+### Idea 5 : Using Protable devices.
+
+We can use protables devices that storage data and we can also tarnsfer it from connecting to other devices.
+
+|**Pros**|**Cons**|
+|:----:|------|
+|We donot have to write down long notes we can just copy and use it.|They are costly |
+|We can storage large amount of data|Limited data canbe stored.|
+
+
+# IDEA'S BY RIYAN SHAHID.
+
+
+
+
+
+![WhatsApp Image 2021-12-28 at 2 16 27 AM](https://user-images.githubusercontent.com/65994423/147831842-a53d5c2d-394f-41b3-b638-49998201da38.jpeg)
