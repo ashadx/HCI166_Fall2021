@@ -20,28 +20,25 @@
  ####  Persona of Student :
  
  * Persona of std 1:
- 
-  ![WhatsApp Image 2022-01-06 at 2 15 20 AM](https://user-images.githubusercontent.com/92552475/148363304-509ff90b-adce-44de-bc11-24ab2e12d9ed.jpeg)
-  
  * Persona of std 2:
+ 
+ ![WhatsApp Image 2022-01-06 at 2 42 21 AM](https://user-images.githubusercontent.com/65994423/148363633-5d0a9226-49f7-425b-8c63-8f868aaf68c6.jpeg)
+
 
 #### Persona of Staff:
  * Persona of staff 1:
-
-![WhatsApp Image 2022-01-06 at 3 51 59 AM](https://user-images.githubusercontent.com/92552475/148364021-6ba26b63-f981-405d-9d54-71d6aa86d373.jpeg)
-
- 
- 
  * Persona of staff 2:
+ 
+ ![WhatsApp Image 2022-01-06 at 4 03 49 AM](https://user-images.githubusercontent.com/65994423/148363712-d415fd50-d7d5-429e-8f4b-df003f3dbb79.jpeg)
+
 
 #### Persona of Teacher :
-
  * Persona of Teacher 1:
-
- * Persona of Teacher 2:
  
- ![WhatsApp Image 2022-01-06 at 4 33 45 AM](https://user-images.githubusercontent.com/92552475/148364639-567971d0-a378-41e2-aabc-a15d5f6e6ffa.jpeg)
+ ![WhatsApp Image 2022-01-06 at 4 26 14 AM](https://user-images.githubusercontent.com/65994423/148364509-7156ad7e-5642-495c-bfa0-c233ebe3647f.jpeg)
 
+ 
+ * Persona of Teacher 2:
 
 
 ## Senerios:
@@ -52,7 +49,6 @@
 
 
 ## StoryBoard
-
 
 * Storyboard of idea 1:
 * Storyboard of idea 2:
