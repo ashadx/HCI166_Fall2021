@@ -37,11 +37,11 @@
 #### Persona of Teacher :
 
  * Persona of Teacher 1:
- 
- 
- ![WhatsApp Image 2022-01-06 at 4 26 14 AM](https://user-images.githubusercontent.com/92552475/148364260-104e4c19-d9be-4805-8b38-9636e6af2bc9.jpeg)
 
  * Persona of Teacher 2:
+ 
+ ![WhatsApp Image 2022-01-06 at 4 33 45 AM](https://user-images.githubusercontent.com/92552475/148364639-567971d0-a378-41e2-aabc-a15d5f6e6ffa.jpeg)
+
 
 
 ## Senerios:
