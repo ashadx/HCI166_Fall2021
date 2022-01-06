@@ -76,8 +76,31 @@ M.Nadeem is as junior staff member and he is recently gradute so he is under tra
 ###### Scenario 2 : Senior staff.
 As he is senior staff member his duties are to make lineup all the works that would take place in a day and after listen that to the news of pandemic all the activities will be done in home ,so he will face difficulties in doning his work but his staff members suggested an idea to make an application that can used by students ,teacher and staff as well.
 
+###### Scenario 3: student 1 (far from school)
+AS Askari is living far from school he can not attend his classes regularly and on time and after an imposed of lockdown and hybrid classes are becoming so usefull. So he has an idea that an application should be design that UI is understandable by staff  ,teachers and students so they can  conduct lectures ,quiz and exam online.
+###### Scenario 4: student 2 (near to school)
+Abdul Basit is 18 year old an living near to school but he also do odd jobs to run his expenses so some time he cannot attend quiz and assignment but  during pandemic he can take all his quiz and assignment online by downloading an application that’s UI is as easy as smiling.
 
-* idea 3:
+
+* idea 3:**Using portable devices.
+
+###### Idea :Using portable devices.
+###### Scenario 1: Senior Teacher.
+As he is am senior teacher ,he has to travel a lot from one district to another or from one city to another and country as well. Its  very difficult to carry all lectures and notes with him  always so our student gave them an idea to carry an portable device that can help him to carry lectures and notes with him any time and any where,by using portable devices he can also share notes with students and other teachers.
+
+ ###### Scenario 2: Jr. Teacher.
+As he is newly joined so he has many task to do and had to prepare notes before giving a lecture but carry them is difficult and there are many chances of losting. After covid when classes are conducted online he can not give notes to every student one by one ,now he has an idea to carry an portable device with him so he can take lecture and provide notes without any burden .
+
+###### Scenario 3: Senior staff.
+Azam is an senior staff member and as senior staff there some duties to provide some work and software that are not installed in another devices ,so he also uses portable devices to carry softwares so he can share them with any one with out any interption.
+
+###### Scenario 4: Student (far from home).
+Askari live 20 km away from his school so he usually do not attend classes and misses his lectues and some times miss place his notes and some time forget them in home but now he is being free because he used portable device for carry lecture notes and assignmnets.
+
+
+
+
+
 
 
 ## StoryBoard
