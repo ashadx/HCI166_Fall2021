@@ -51,9 +51,11 @@
 
 ## Senerios:
 
-* senerio of idea 1:
-* senerio of idea 2:
-* senerio of idea 3:
+* idea 1:
+  
+  
+* idea 2:
+* idea 3:
 
 
 ## StoryBoard
