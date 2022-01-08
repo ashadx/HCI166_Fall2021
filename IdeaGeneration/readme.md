@@ -50,7 +50,7 @@ It is also helpfull for the students you can not listen properly ,they can under
 |Student can understand spelling as well|If the spelling is wrong in subtitile it can have wrong concept in his mind|
 |If voice is interupted you can understand by words|It takes long time to implement|
 
-### Idea 4: UI Human Friendly (orginial by[Riyan])
+### Idea 4: UI Human Friendly (orginial by[Asad])
 
 In hybrid classroom the app or website that are used by student and teachers should be user friendly so they should not face any problem in using that medium.
 As HCI play an important role in every aspect of your life .
@@ -71,6 +71,43 @@ We can use protables devices that storage data and we can also tarnsfer it from 
 |We can storage large amount of data|Limited data canbe stored.|
 
 
+### Idea 6:Online temptations.
+
+We can make online interaction of students and teahcer through our application so student can feel for a moment that they are not sitting at home but they are properly attending there classs and can communicate with there mates easily.
+
+|**Pros**|**Cons**|
+|:----:|------|
+|It will create artifical enviroment|It can distrub enviroment because student are not present in fornt of teacher|
+|It will save travelling time|The student can join and will not listen to teacher|
+
+
+### Idea 7 : Poor typing  skills.
+In hybrid class if a every teacher will take lecture using word or note pad it will be difficult for them to take because of thier typeing skills.
+|**Pros**|**Cons**|
+|:----:|------|
+|It will not time for computer science teacher|It will take time for other teacher|
+|Teacher can copy some task and it will same time|Some task can not be copyed so teacher have to write all of it and it will consume time|
+
+### Idea 8:Creative online assignment.
+It can improve the thinging capability of an student.
+|**Pros**|**Cons**|
+|:----:|------|
+|Student mind will become creative|It can take a lot of time.|
+
+### Idea 9: Procrastination.
+One of the main reasons students procrastinate is that they do not see their coursework as relevant to what they're doing now or expect to do later on.Remote learning can make students feel bored and frustrated. Therefore, finding ways to stay motivated can prevent procrastination.
+|**Pros**|**Cons**|
+|:----:|------|
+|It can help them to work fast|Some student copy and submit there task|
+|You can manage your work|students feel bored and frustrated|
+
+### Idea 10: Video Game Learning.
+Many video games teach important life skills. Educational video games are important for individualized learning.Children can learn programming, coding, and CAD design using video game play. Games like Minecraft teach children basic survival skills, such as sourcing wood to build a home, and many other skills.
+|**Pros**|**Cons**|
+|:----:|------|
+|Video games improve basic visual processes|Video games can make people more violent|
+|Video games can improve everyday skills|Video games can become addictive|
+
 # IDEA'S BY RIYAN SHAHID.
 
 
@@ -78,3 +115,7 @@ We can use protables devices that storage data and we can also tarnsfer it from 
 
 
 ![WhatsApp Image 2021-12-28 at 2 16 27 AM](https://user-images.githubusercontent.com/65994423/147831842-a53d5c2d-394f-41b3-b638-49998201da38.jpeg)
+
+# IDEA'S BY ASAD ASLAM.
+![WhatsApp Image 2022-01-09 at 2 28 42 AM](https://user-images.githubusercontent.com/92552475/148660607-68f6ae2d-ea12-467a-9824-51d917f33183.jpeg)
+
