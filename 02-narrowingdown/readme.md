@@ -68,7 +68,7 @@ As he is young faculty he had not to faced many problems as senior teacher had f
 
   
   
-* idea 2:**UI human friendly.
+* idea 2:[**UI human friendly.**]
  ##### Idea : UI human friendly.
 ###### Scenario 1 : jr.staff 
 M.Nadeem is as junior staff member and he is recently gradute so he is under traning process and his dutuies are to make time table ,class availability and it support .So as pandemic same all work are done by home and it is obvious that the work is done through any website or an app .The application that all has to user friendly that any can easily use it .He get an idea to an app that can easily use without any help.
@@ -82,7 +82,7 @@ AS Askari is living far from school he can not attend his classes regularly and 
 Abdul Basit is 18 year old an living near to school but he also do odd jobs to run his expenses so some time he cannot attend quiz and assignment but  during pandemic he can take all his quiz and assignment online by downloading an application that’s UI is as easy as smiling.
 
 
-* idea 3:**Using portable devices.
+* idea 3:[**Using portable devices.**]
 
 ###### Idea :Using portable devices.
 ###### Scenario 1: Senior Teacher.
