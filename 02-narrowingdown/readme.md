@@ -109,5 +109,8 @@ Askari live 20 km away from his school so he usually do not attend classes and m
 ![WhatsApp Image 2022-01-10 at 11 51 36 PM](https://user-images.githubusercontent.com/92552475/148823909-7e0101c5-f9f2-459f-a9b1-c13fa34c6bc5.jpeg)
 
 * Storyboard of idea 2:
+![WhatsApp Image 2022-01-11 at 12 43 29 AM](https://user-images.githubusercontent.com/92552475/148923485-341000e3-d096-47d5-8a83-7956ba2a8328.jpeg)
+
 * Storyboard of idea 3:
+![WhatsApp Image 2022-01-11 at 12 43 30 AM](https://user-images.githubusercontent.com/92552475/148923522-aecf2a9c-b9e8-47a8-a7d0-424f73fc8303.jpeg)
 
